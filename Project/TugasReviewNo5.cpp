@@ -1,3 +1,4 @@
+// contoh memberikan komentar di program
 #include <iostream>
 #include <string>
 using namespace std;
